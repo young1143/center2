@@ -34,5 +34,5 @@
 </section>
 <%@inxlude file="static/nav.jsp" %>
 </body>
-</html>
+</html> 
 
